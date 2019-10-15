@@ -1,12 +1,5 @@
-//
-//  ReadMe.md
-//  Apple MapKit Tutorial
-//
-//  Created by Artoon Solution on 21/12/2018.
-//  Copyright © 2018 Artoon Solution. All rights reserved.
-//
 
-Apple MapKit 
+Draw Route Source to Destination in MapKit using Swift.
 
 MapKit is Apple's framework that allows to embed fully functional map interface into mobile application. The map provided by this framework includes many features of the Maps in both iOS and OS X. You can display standard street-level map information, satellite imagery, or a combination of the two. You can zoom, pan, and pitch the map programmatically, display 3D buildings, and annotate the map with custom information. The Map Kit framework also provides automatic support for the touch events that let users zoom and pan the map.
 
